@@ -9,9 +9,9 @@ export default function Contact() {
       </p>
       <div className="flex-center">
         <a
-          aria-label="Wyślij e-maila na adres jakub.soboczynski@icloud.com"
+          aria-label="Wyślij e-maila na adres kontakt@jakubsoboczynski.pl"
           className="button"
-          href="mailto:jakub.soboczynski@icloud.com"
+          href="mailto:kontakt@jakubsoboczynski.pl"
           rel="noreferrer nofollow noopener"
           target="_blank">
           Cześć
