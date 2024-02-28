@@ -6,7 +6,7 @@
 
 ## Demo 👀
 
-#### [🏠 Link to demo here!](https://jakubsoboczynski-next-v1.netlify.app/)
+#### [🏠 Link to demo here!](https://jakubsoboczynski-next-v1.pages.dev/)
 
 ## Author 🙎🏼‍
 
